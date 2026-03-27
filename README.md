@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=".github/pethub-logo.png" alt="PetHub" width="150" />
+  <img src=".github/pethub-logo.png" alt="PetHub" width="300" />
 </div>
 
 # 🐾 PetHub — Backend
